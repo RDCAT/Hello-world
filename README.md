@@ -1,2 +1,6 @@
-# Hello-world
-just another responsitory
+#include <stdio.h>
+int main()
+{
+  printf("hello world");
+  return;
+}
